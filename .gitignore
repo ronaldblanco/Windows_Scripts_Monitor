@@ -1,7 +1,11 @@
-shareSQL_STATE/*.*
+shareSQL_STATE/*.txt
+shareSQL_STATE/*.more
+shareSQL_STATE/*.1
+shareSQL_STATE/*.tmp1
 *.cer
 env.cmd
 env.vbs
 RUNMACRO_MBA.vbs
 RUNMACRO_PARALELO.vbs
 RUNMACRO_MONITOREDMS.vbs
+*.tmp1
